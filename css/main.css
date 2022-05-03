@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap');
+
 .massContainer {
     min-height: 100vh;
     display: flex;
@@ -20,10 +21,7 @@
     height: fit-content;
     width: fit-content;
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-right: 50px;
-    padding-left: 50px;
+    padding: 50px;
     border-radius: 11px;
     border: 2px solid #00ff15;
 }
@@ -47,7 +45,7 @@
     color: white;
     padding-bottom: 20px;
     padding-top: 40px;
-    border: 0px solid #00ff15;
+    border: 0 solid #00ff15;
     border-top-width: 1px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -60,9 +58,9 @@
 
 .footer p {
     color: rgb(161, 161, 161);
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
-.test a {
+.rights a {
     color: rgb(161, 161, 161);
 }

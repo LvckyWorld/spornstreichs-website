@@ -33,7 +33,7 @@
     <div class="footerContainer">
         <div class="footer">
             <p>Powered by <a href='https://lvckyworld.net'>LvckyWorld</a></p>
-            <div class="test">
+            <div class="rights">
                 <a href='https://lvckyworld.net/rights'>Datenschutz & Impressum</a>
             </div>
         </div>
