@@ -24,7 +24,7 @@ $headerContent::printMeta($titleExtra, $compiler::compileUrl($url));
     <div class="contentContainer">
         <img src='https://lvckyworld.net/images/logooo.svg' />
         <h1>SPORNSTREICHS.DE</h1>
-        <a>So reichet mir spornstreichs den <a href="https://github.com/LvckyAPI/spornstreichs-website">Sourcecode</a>!</a>
+        <a>So reichet mir spornstreichs den</a> <a target="blank" href="https://github.com/LvckyAPI/spornstreichs-website">Sourcecode</a><a>!</a>
     </div>
 
     <footer>
