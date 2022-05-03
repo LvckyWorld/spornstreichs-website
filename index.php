@@ -26,7 +26,7 @@
 <div class="contentContainer">
     <img src='https://lvckyworld.net/images/logooo.svg' alt="logo"/>
     <h1>SPORNSTREICHS.DE</h1>
-    <a>So reichet mir spornstreichs den</a> <a target="blank" href="https://github.com/LvckyAPI/spornstreichs-website">Sourcecode</a><a>!</a>
+    <a>So reichet mir spornstreichs den</a> <a target="blank" href="https://github.com/LvckyWorld/spornstreichs-website">Sourcecode</a><a>!</a>
 </div>
 
 <footer>
